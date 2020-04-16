@@ -62,9 +62,21 @@ bottom: 60px;
 {
 padding-right: 30px;
 font-size: 25px;
-color: #9a9b9c;
+color: #000000;
 }
 .social i:hover
 {
-color: #ffffff;
+color:  #9a9b9c;
+}
+.subtopic
+{
+margin:10px 10px 30px 10px !important;
+}
+p
+{
+font-size: var(--fontsize-p);
+}
+h1,h2,h3,h4,p
+{
+margin: 10px;
 }
