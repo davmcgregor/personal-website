@@ -5,10 +5,8 @@ class Widecard extends Component {
     return (
       <div class="widecard">
       <div class="compdet">
-      <h3>{this.props.title}</h3>
-      <h4 class="secondtext">{this.props.where}</h4>
-      <h4 class="secondtext">{this.props.details}</h4>
-      <h4 class="secondtext">{this.props.from} - {this.props.to}</h4>
+      <h2>{this.props.title} ({this.props.from} - {this.props.to})</h2>
+      <p class="secondtext">{this.props.details}</p>
       </div>
       </div>
       )
