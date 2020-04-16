@@ -22,9 +22,9 @@ class About extends Component {
       </p>
       <Social />
       </div>
-      )
-    }
+    )
   }
+}
     
 export default About
     

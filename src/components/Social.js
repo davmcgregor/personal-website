@@ -9,8 +9,8 @@ class Social extends Component {
         <a href="mailto:davidjohnmcgregor@gmail.com" target="_blank"><i class="far fa-envelope"></i></a>
         <a href="CV" target="_blank"><i class="far fa-file"></i></a>
       </div>
-      )
-    }
+    )
   }
+}
 
 export default Social

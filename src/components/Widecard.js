@@ -9,9 +9,9 @@ class Widecard extends Component {
       <p class="secondtext">{this.props.details}</p>
       </div>
       </div>
-      )
-    }
+    )
   }
+}
     
 export default Widecard
     

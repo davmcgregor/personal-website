@@ -34,5 +34,5 @@
       "last 1 safari version"
     ]
   },
-  "build-and-deploy": "npm run build && s3cmd sync build/* s3://davemcgregor-portfolio && echo '🚀  Deployed!'"
+  "build-and-deploy": "npm run build && s3cmd sync build/* s3://davemcgregor.me && echo '🚀  Deployed!'"
 }

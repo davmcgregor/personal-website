@@ -39,6 +39,7 @@ nav
   justify-content: center;
   flex-direction: column;
   align-items: center;
+  text-align: center;
   
 }
 .profilepic
@@ -82,7 +83,6 @@ h1,h2,h3,h4,p{
 }
 .social
 {
-  position: absolute;
   padding-top: 20px;
   margin-top: 20px;
   display: flex;
@@ -154,9 +154,15 @@ h1,h2,h3,h4,p{
   {
     padding: 50px ;
   }
+  nav
+  {
+    padding:10px;
+  }
   nav ul
   {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
   }
   nav ul li
   {
