@@ -15,7 +15,7 @@ class Skills extends Component {
         <h1 className="subtopic">Skills</h1>
         <ul>
         {this.state.myskills.map((value)=>{
-            return <li>{value}</li>
+            return <li className="animated bounceInLeft">{value}</li>
         })}
         </ul>
         </div>

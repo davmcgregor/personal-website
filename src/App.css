@@ -12,7 +12,7 @@
   padding: 0;
 }
 body{
-  font-family: 'Raleway';
+  font-family: 'Helvetica';
 }
 .App
 {
@@ -45,7 +45,6 @@ nav
 {
   border-radius: 50%;
   width: 250px;
-  margin: 50px;
 }
 .typingeffect
 {
@@ -84,6 +83,7 @@ h1,h2,h3,h4,p{
 .social
 {
   position: absolute;
+  padding-top: 20px;
   margin-top: 20px;
   display: flex;
   bottom: 60px;
@@ -119,6 +119,12 @@ h1,h2,h3,h4,p{
 {
   list-style-type:none;
   margin:30px;
+}
+
+.link{
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 @media all and (max-width: 450px) {
