@@ -10,9 +10,12 @@ import Navbar from './components/Navbar';
 function App() {
   return (
     <Router>
-    <div className="App">
-    <Navbar />
-    </div>
+      <div className="App">
+      <Navbar />
+      <Route exact path="/">
+      <Home />
+      </Route>
+      </div>
     </Router>
     )
   }
