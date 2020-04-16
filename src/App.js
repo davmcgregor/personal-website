@@ -7,6 +7,7 @@ import {
 import Navbar from './components/Navbar';
 import Education from './contents/Education';
 import Skills from './content/Skills';
+import Contact from './content/Contact';
 
 
 function App() {
@@ -24,7 +25,10 @@ function App() {
         <Education />
       </Route>
       <Route path="/skills">
-        <Education />
+        <Skills />
+      </Route>
+      <Route path="/contact">
+        <Contact />
       </Route>
       </div>
     </Router>
