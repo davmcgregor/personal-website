@@ -5,6 +5,8 @@ import {
   Route,
 } from "react-router-dom";
 import Navbar from './components/Navbar';
+import Education from './contents/Education';
+import Skills from './content/Skills';
 
 
 function App() {
@@ -17,6 +19,12 @@ function App() {
       </Route>
       <Route path="/about">
         <About />
+      </Route>
+      <Route path="/education">
+        <Education />
+      </Route>
+      <Route path="/skills">
+        <Education />
       </Route>
       </div>
     </Router>
