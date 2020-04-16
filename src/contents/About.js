@@ -8,7 +8,7 @@ class About extends Component {
       <h1 className="subtopic">David McGregor</h1>
       <p>I am a software developer and tech enthusiast, having recently graduated 
         from the intensive <strong>Makers Academy</strong> web development course (I've blogged about 
-        the experience <a class="link" href="https://blog.makersacademy.com/tips-to-max-your-learning-5e363517acfb" target="_blank">here</a>. 
+        the experience <a class="link" href="https://blog.makersacademy.com/tips-to-max-your-learning-5e363517acfb" target="_blank">here</a>). 
       </p>
       <br />
       <p>
