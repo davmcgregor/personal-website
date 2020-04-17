@@ -20,7 +20,9 @@ class About extends Component {
         Now I'm looking to join a team where I can work on new challenges, expand my programming 
         knowledge and build great technology.
       </p>
+      <div className="mobilesocial">
       <Social />
+      </div>
       </div>
     )
   }
