@@ -4,13 +4,13 @@ import {
   BrowserRouter as Router,
   Route,
 } from "react-router-dom";
-import Navbar from './components/Navbar.js';
-import Home from './contents/Home.js';
-import About from './contents/About.js';
-import Education from './contents/Education.js';
-import Skills from './contents/Skills.js';
-import Contact from './contents/Contact.js';
-import Projects from './contents/Projects.js';
+import Navbar from './components/Navbar';
+import Home from './contents/Home';
+import About from './contents/About';
+import Education from './contents/Education';
+import Skills from './contents/Skills';
+import Contact from './contents/Contact';
+import Projects from './contents/Projects';
 
 
 function App() {
