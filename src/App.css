@@ -156,10 +156,13 @@ h1,h2,h3,h4,p{
     --typing-font:2rem;
   }
   .profilepic
-{
+  {
   border-radius: 25%;
   width: 200px;
-}
+  }
+  body{
+    font-family: 'Helvetica';
+  }
   .App
   {
     flex-direction: column;
