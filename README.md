@@ -1,5 +1,4 @@
 # [davemcgregor.me](http://www.davemcgregor.me)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/03ba2642-bb49-452d-9ecf-3efe256b3d1c/deploy-status)](https://app.netlify.com/sites/epic-hamilton-33c224/deploys)
 
 Personal website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
