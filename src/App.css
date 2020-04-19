@@ -69,6 +69,10 @@ nav ul li
 {
   margin:40px;
 }
+nav ul li :hover
+{
+  font-weight: bold;
+}
 
 a
 {
@@ -107,12 +111,8 @@ h1,h2,h3,h4,p{
 {
   border:0px solid #ffffff;
   display: flex;
-  margin:30px 0px 30px 0px;
-}
-.projectlinks i
-{
-  font-size: 1.5em; 
-  color: #000000;
+  margin: 30px 0px 30px 0px;
+  padding: 3%;
 }
 .projectimage{
   max-width: 80%;
@@ -120,7 +120,13 @@ h1,h2,h3,h4,p{
   margin-right: auto;
   display: block;
 }
-
+.projectlinks{
+  display: flex;
+  justify-content: center;
+}
+.fa-link, .fa-github{
+  font-size: 1.5em;
+}
 .widecard:hover
 {
   color: #1b1d20;
@@ -139,8 +145,7 @@ h1,h2,h3,h4,p{
 }
 
 .link{
-  color: blue;
-  text-decoration: underline;
+  color: black;
   font-weight: bold;
 }
 

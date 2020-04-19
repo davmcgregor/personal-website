@@ -5,8 +5,16 @@ class Projectcard extends Component {
     return (
       <div class="widecard">
         <div class="compdet">
-          <h2 align="center">{this.props.title} <a class="projectlinks" href={this.props.githublink} target="_blank"><i class="fab fa-github"></i></a>  <a class="projectlinks"href={this.props.link} target="_blank"><i class="fas fa-link"></i></a></h2>
-          <p class="secondtext">{this.props.description}</p>
+          <h2 align="center">{this.props.title}</h2>
+          <p class="secondtext">{this.props.description}</p> 
+          <div class="projectlinks">
+            <a class="link" href={this.props.link} target="_blank">
+              <h3><i class="fas fa-link"></i> <u>Live Link</u></h3>
+            </a>  
+            <a class="link" href={this.props.githublink} target="_blank">
+              <h3><i class="fab fa-github"></i> <u>Github</u></h3>
+            </a>
+          </div>
           <br />
           <img class="projectimage" src={this.props.image}></img>
           <br />
