@@ -7,7 +7,8 @@ class Projects extends Component {
         <div className="condiv">
         <h1 className="subtopic">Projects</h1>
         <Projectcard title="WanderList" 
-        link="https://github.com/davmcgregor/Wanderlist" 
+        githublink="https://github.com/davmcgregor/Wanderlist" 
+        link="https://wanderlist-makers.herokuapp.com/"
         description="Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilisng the Google Maps, Directions and Places APIs." 
         image="https://raw.githubusercontent.com/davmcgregor/CV/master/screenshots/WanderList_header.png"
         development="Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara" 
