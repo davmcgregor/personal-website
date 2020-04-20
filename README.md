@@ -15,3 +15,14 @@ $ npm install
 $ npm start
 ```
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Further improvements
+
+To fix over time: 
+
+* Create tag object for tech skills
+* Ensure bold hover not affecting navbar width
+* Add line spacing on About page
+* Check card padding on mobile
+* Set up redirects/custom 404
+* Set up https
