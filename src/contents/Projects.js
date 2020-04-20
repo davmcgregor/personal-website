@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import Projectcard from '../components/Projectcard';
+import wanderlistgif from '../img/wanderlist.gif';
+
 
 class Projects extends Component {
   render() {
@@ -10,7 +12,7 @@ class Projects extends Component {
         githublink="https://github.com/davmcgregor/Wanderlist" 
         link="https://wanderlist-makers.herokuapp.com/"
         description="Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilisng the Google Maps, Directions and Places APIs." 
-        image="../img/wanderlist.gif"
+        image= {wanderlistgif}
         development="Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara" 
         deployment="Travis CI, Heroku, Rubocop, Code Climate"/>
         </div>
