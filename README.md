@@ -2,7 +2,7 @@
 
 Personal website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Installataion instructions
+## Installation instructions
 
 1. Fork this repository, clone to your local machine then change into the directory:
 ```
