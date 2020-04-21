@@ -1,4 +1,4 @@
-# [davemcgregor.me](davemcgregor.me)
+# [davemcgregor.me](www.davemcgregor.me)
 
 Personal website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
