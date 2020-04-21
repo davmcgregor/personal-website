@@ -19,6 +19,8 @@ $ npm start
 ## Still in progress
 
 - [x] Ensure bold hover not affecting navbar width
+- [ ] Finish responsive design
+- [ ] Update fonts to display correctly in different browsers 
 - [ ] Create tag object for tech skills
 - [ ] Add line spacing on About page
 - [ ] Check card padding on mobile
