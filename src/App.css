@@ -23,7 +23,6 @@ body{
 nav
 {
   padding:60px 30px 0px 30px ;
-  flex:var(--sidebar-flex);
   background: rgb(00,00,00);
 }
 .condiv
@@ -65,6 +64,11 @@ nav ul{
   text-decoration: none;
   color: white !important;
 }
+
+nav ul{
+  width: 8em
+}
+
 nav ul li
 {
   margin:40px;
@@ -154,6 +158,9 @@ h1,h2,h3,h4,p{
     --fontsize-nav:1rem;
     --sidebar-flex:0;
     --typing-font:2rem;
+  }
+  nav ul{
+    width: 100%;
   }
   .profilepic
   {
