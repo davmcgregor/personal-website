@@ -18,9 +18,10 @@ $ npm start
 
 ## Still in progress
 
-- [ ] Create tag object for tech skills
 - [x] Ensure bold hover not affecting navbar width
+- [ ] Create tag object for tech skills
 - [ ] Add line spacing on About page
 - [ ] Check card padding on mobile
 - [ ] Set up redirects/custom 404
 - [ ] Set up https
+- [ ] Resdesign to scrolling format
