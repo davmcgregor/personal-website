@@ -20,10 +20,10 @@ $ npm start
 
 - [x] Ensure bold hover not affecting navbar width
 - [ ] Finish responsive design
-- [ ] Update fonts to display correctly in different browsers 
-- [ ] Create tag object for tech skills
-- [ ] Add line spacing on About page
+- [ ] Update font for browsers/devices
+- [x] Create tag design for tech skills
+- [x] Add line spacing on About page
 - [ ] Check card padding on mobile
 - [ ] Set up redirects/custom 404
 - [ ] Set up https
-- [ ] Resdesign to scrolling format
+- [ ] Resdesign to scrolling format - use gatsby?

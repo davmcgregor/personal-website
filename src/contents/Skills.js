@@ -9,7 +9,7 @@ class Skills extends Component {
             JavaScript: ["JavaScript", "jQuery", "ReactJS", "Node.js", "Jasmine", "Jest", "Enzyme", "ESLint", "Mocha", "Chai"],
             Ruby: ["Ruby", "Rails", "RSpec", "Sinatra", "Capybara", "Rubocop"],
             TechSkills: ["SQL", "APIs", "AWS", "Git", "TravisCI", "CodeClimate", "Heroku", "Netlify", "HTML", "CSS", "Bootstrap"],
-            OtherSkills: ["Agile methodology", "Test-driven development", "Process diagramming"]
+            OtherSkills: ["Agile methodology", "Test-driven development", "Process diagramming", "Wireframing"]
          }
       };
   }
