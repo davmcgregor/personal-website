@@ -1,8 +1,8 @@
-# [davemcgregor.me](http://www.davemcgregor.me)
+# [davemcgregor.me](http://davemcgregor.me/)
 
 Personal website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Installataion instructions
+## Installation instructions
 
 1. Fork this repository, clone to your local machine then change into the directory:
 ```
@@ -18,9 +18,12 @@ $ npm start
 
 ## Still in progress
 
-- [ ] Create tag object for tech skills
 - [x] Ensure bold hover not affecting navbar width
+- [ ] Finish responsive design
+- [ ] Update fonts to display correctly in different browsers 
+- [ ] Create tag object for tech skills
 - [ ] Add line spacing on About page
 - [ ] Check card padding on mobile
 - [ ] Set up redirects/custom 404
 - [ ] Set up https
+- [ ] Resdesign to scrolling format
