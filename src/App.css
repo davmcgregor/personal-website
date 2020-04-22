@@ -145,7 +145,13 @@ h1,h2,h3,h4,p{
 .skills ul li
 {
   list-style-type:none;
-  margin:30px;
+  margin:15px;
+  display: inline-block;
+  background:  silver;
+  margin-right: 2px;
+  margin-bottom: 5px;
+  padding: 7px;
+  font-weight: 700;
 }
 
 .link{
