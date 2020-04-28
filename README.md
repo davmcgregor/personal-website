@@ -1,6 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/59c85784-ae73-4028-9c1e-bf7739fa2d52/deploy-status)](https://app.netlify.com/sites/elastic-archimedes-cbda02/deploys)
 
-# [New website at: davemcgregor.me](http://davemcgregor.me/)
+# [Note: new website at davemcgregor.me](http://davemcgregor.me/)
+
+Original attempt at building a personal portfolio site before this version: https://github.com/davmcgregor/portfolio-website
 
 Personal website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
