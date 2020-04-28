@@ -2,7 +2,7 @@
 
 # [Note: new website at davemcgregor.me](http://davemcgregor.me/)
 
-Original attempt at building a personal portfolio site before this version: https://github.com/davmcgregor/portfolio-website
+Original attempt at building a personal portfolio site before this latest version: https://github.com/davmcgregor/portfolio-website
 
 Personal website was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
